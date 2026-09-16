@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm / IntelliJ
+.idea/
+
+# Dataset generati / pesanti
+data/interim/
+data/processed/
+
+# Vecchi risultati pesanti
+archive/old results/
+
+# Environment
+.venv/
+venv/
+rgenv/

@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (RG_FND)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\Leone\anaconda3" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="rgenv" project-jdk-type="Python SDK" />
 </project>
